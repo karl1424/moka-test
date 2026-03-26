@@ -5,4 +5,4 @@ ts.put(1);
 ts.put(1)
 
 check F stuck
-check X !ts.get(1)
+check X ts.getP(1)
